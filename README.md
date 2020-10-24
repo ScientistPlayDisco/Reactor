@@ -1,0 +1,6 @@
+# Reactor
+V1版本实现了简单的Reactor模型
+
+V2&v3版本在v1版本上进行了代码的重构整合出了Tcpconnection类
+
+v4版本实现了Reactor+Threadpool模型，实现了计算线程和IO线程分离
